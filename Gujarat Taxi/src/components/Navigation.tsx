@@ -53,7 +53,7 @@ export default function Navigation() {
             <div className="flex items-center space-x-4 text-sm text-gray-600">
               <div className="flex items-center space-x-1">
                 <Phone className="w-4 h-4" />
-                <span>+91 98765 43210</span>
+                <span>+91 95128 70958</span>
               </div>
               <div className="flex items-center space-x-1">
                 <Mail className="w-4 h-4" />
@@ -95,7 +95,7 @@ export default function Navigation() {
                 <div className="flex flex-col space-y-2 text-sm text-gray-600">
                   <div className="flex items-center space-x-2">
                     <Phone className="w-4 h-4" />
-                    <span>+91 98765 43210</span>
+                    <span>+91 95128 70958</span>
                   </div>
                   <div className="flex items-center space-x-2">
                     <Mail className="w-4 h-4" />

@@ -196,7 +196,7 @@ The app can be deployed to any platform that supports Next.js:
 For support or questions:
 
 - Email: info@gujarattaxi.com
-- Phone: +91 98765 43210
+- Phone: +91 95128 70958
 - Website: Gujarat Taxi - Khushboo Gujarat Ki
 
 ## License
